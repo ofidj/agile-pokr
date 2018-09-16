@@ -34,10 +34,7 @@
     "karma-jasmine": "^1.1.2",
     "karma-jasmine-ajax": "^0.1.13",
     "karma-jasmine-html-reporter-livereload": "*",
-    "karma-phantomjs-launcher": "^1.0.4",
-    "phantomjs": "^2.1.7",
-    "shelljs": "^0.8.2",
-    "typescript": "~2.6.2"
+    "typescript": "~2.9.2"
   },
   "dependencies": {
     "@angular/animations": "5.2.11",
