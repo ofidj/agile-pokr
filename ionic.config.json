@@ -1,0 +1,9 @@
+{
+  "name": "Agile-Pokr",
+  "type": "fidj",
+  "integrations": {
+    "cordova": {},
+    "gulp": {}
+  },
+  "app_id": ""
+}
