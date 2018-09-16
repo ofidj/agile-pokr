@@ -30,7 +30,6 @@ function configTask() {
         .pipe(gulp.dest('.'));
 }
 
-
 function configSrcTask() {
     const version = "const version = '" + require('./package').version + "';";
     return gulp.src(['src/app/shared/version.const.ts'])
