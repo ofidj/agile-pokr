@@ -21,14 +21,13 @@
   },
   "devDependencies": {
     "@ionic/app-scripts": "3.2.0",
-    "typescript": "~2.6.2",
     "gulp": "^4.0.0",
     "gulp-cheerio": "^0.6.3",
     "gulp-replace": "^0.6.1",
     "gulp-util": "^3.0.8",
     "jasmine-ajax": "^3.4.0",
     "jasmine-core": "^2.99.1",
-    "karma": "^2.0.4",
+    "karma": "^3.0.0",
     "karma-chrome-launcher": "^2.2.0",
     "karma-coverage": "^1.1.2",
     "karma-html-reporter": "*",
@@ -37,7 +36,8 @@
     "karma-jasmine-html-reporter-livereload": "*",
     "karma-phantomjs-launcher": "^1.0.4",
     "phantomjs": "^2.1.7",
-    "shelljs": "^0.8.2"
+    "shelljs": "^0.8.2",
+    "typescript": "~2.6.2"
   },
   "dependencies": {
     "@angular/animations": "5.2.11",
@@ -57,6 +57,7 @@
     "fidj": "^2.1.7",
     "ionic-angular": "3.9.2",
     "ionicons": "3.0.0",
+    "pouchdb": "^7.0.0",
     "rxjs": "5.5.11",
     "save-dev": "^2.0.0",
     "sw-toolbox": "3.6.0",
