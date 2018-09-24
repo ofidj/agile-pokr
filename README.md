@@ -1,4 +1,5 @@
 # Agile-Poker
+
 > simple agile poker planning
 
 [![Fidj.io Status][fidj-image]][fidj-url]
@@ -6,18 +7,21 @@
 
 [![video][youtube-img]][youtube-video]
 
-### Build it 
+## Build it
 
 Clone and install the project
-```bash
-    npm install    
-```    
-and then launch on your device
-```bash
-    npm run ios
-```    
 
-### Deploy
+```bash
+npm install
+```
+
+and then launch on your device
+
+```bash
+npm run ios
+```
+
+## Deploy
 
 Follow this [guide](https://ionicframework.com/docs/intro/deploying/)
 
@@ -29,4 +33,3 @@ Follow this [guide](https://ionicframework.com/docs/intro/deploying/)
 
 [travis-image]: https://travis-ci.org/ofidj/agile-poker.svg?branch=master
 [travis-url]: https://travis-ci.org/ofidj/agile-poker
-    
