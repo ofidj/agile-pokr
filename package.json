@@ -11,7 +11,7 @@
     "clean": "ionic-app-scripts clean",
     "build:app": "ionic-app-scripts build",
     "build:config": "./node_modules/.bin/gulp",
-    "build:ids": "./node_modules/.bin/gulp www-fidjId",
+    "build:ids": "./node_modules/.bin/gulp config:www",
     "build": "npm run build:config && npm run build:app && npm run build:ids",
     "lint": "ionic-app-scripts lint",
     "serve": "ionic-app-scripts serve",
