@@ -62,6 +62,7 @@ typings/
 
 .sourcemaps/
 .idea/
+.vscode/
 platforms/
 plugins/
 _key/
