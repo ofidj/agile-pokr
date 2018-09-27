@@ -25,7 +25,7 @@ npm run ios
 
 Check our deployed demos on
 [github](https://ofidj.github.io/agile-pokr/www/) -
-[heroku](https://mi-poker.herokuapp.com/) -
+[heroku](https://agile-pokr.herokuapp.com/) -
 [android](https://play.google.com/store/apps/details?id=io.miapp.agilepoker) -
 [ios](https://itunes.apple.com/fr/app/agile-pokr/id1358118408?mt=8).
 
