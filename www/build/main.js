@@ -477,7 +477,7 @@ var MyApp = /** @class */ (function () {
     };
     MyApp.prototype.initFidj = function () {
         var _this = this;
-        return this.fidjService.init('test', { prod: true })
+        return this.fidjService.init('fidj-1cfed1e7b0003bb9', { prod: true })
             .then(function () {
             _this.connected.unsubscribe();
             _this.profile.readyForSync.next(true);
