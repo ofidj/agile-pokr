@@ -29,7 +29,9 @@ Check our deployed demos on
 [android](https://play.google.com/store/apps/details?id=io.miapp.agilepoker) -
 [ios](https://itunes.apple.com/fr/app/agile-pokr/id1358118408?mt=8).
 
-We just use the static /www for Github and Heroku, and we followed this [guide for deploying mobile apps](https://ionicframework.com/docs/intro/deploying/)
+- Github needs the static /www (look at [gh-pages](https://help.github.com/articles/what-is-github-pages))
+- Heroku needs a node app
+- Mobile OS have [guide for deploying mobile apps](https://ionicframework.com/docs/intro/deploying/)
 
 ### Notes
 
