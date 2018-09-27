@@ -31,6 +31,14 @@ Check our deployed demos on
 
 We just use the static /www for Github and Heroku, and we followed this [guide for deploying mobile apps](https://ionicframework.com/docs/intro/deploying/)
 
+### Notes
+
+heroku deploy a node/express web.js; it needs
+
+```bash
+heroku config:set NPM_CONFIG_PRODUCTION=false
+```
+
 [fidj-image]: https://fidj.ovh/_/agile-pokr/badges/github.svg
 [fidj-url]: https://fidj.ovh/_/agile-pokr
 [youtube-img]: http://img.youtube.com/vi/0FbnCWWg_NY/0.jpg
